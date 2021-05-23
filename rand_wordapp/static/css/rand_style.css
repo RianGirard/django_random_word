@@ -1,0 +1,7 @@
+#textarea {							/* a little help from here: https://www.cssportal.com/form-elements/text-area.php */
+	border: 2px solid #765942;
+	border-radius: 10px;
+	height: 400px;
+	width: 600px;
+    margin-left: 420px;
+}
